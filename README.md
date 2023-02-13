@@ -1,3 +1,3 @@
 # Calculadora_Python
 
-primeiro projeto que fiz em pyhon
+primeiro projeto que fiz em pyhon do zero 
